@@ -1,4 +1,4 @@
-# Level 4: Deployment Otomatis 🚀
+# CI/CD Playground - Level 4: Deployment Otomatis 🚀
 
 Setelah build sukses, tahap selanjutnya adalah melakukan update pada container yang sedang berjalan.
 

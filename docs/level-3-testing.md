@@ -1,4 +1,4 @@
-# Level 3: Integrasi Testing di Pipeline 🧪
+# CI/CD Playground - Level 3: Integrasi Testing di Pipeline 🧪
 
 Pada level ini, kita akan memastikan bahwa aplikasi yang rusak tidak akan di-build menjadi image.
 

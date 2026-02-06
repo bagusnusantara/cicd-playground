@@ -1,4 +1,4 @@
-# Level 2: Jenkins Pipeline Dasar 🏗️
+# CI/CD Playground - Level 2: Jenkins Pipeline Dasar 🏗️
 
 Tujuan level ini adalah mengotomatisasi proses build menggunakan Jenkins Pipeline.
 

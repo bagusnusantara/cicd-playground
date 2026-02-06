@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        APP_NAME = 'cicd-lab-app'
+        APP_NAME = 'cicd-playground'
     }
 
     stages {

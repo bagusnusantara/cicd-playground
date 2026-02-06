@@ -1,4 +1,4 @@
-# Level 1: Dockerization 🐳
+# CI/CD Playground - Level 1: Dockerization 🐳
 
 Pada level ini, tujuan Anda adalah membungkus aplikasi Node.js ke dalam sebuah Docker Image.
 

@@ -1,4 +1,4 @@
-# CI/CD Mastery Lab 🚀
+# CI/CD Playground 🎡
 
 Selamat datang di lab praktikum CI/CD. Lab ini dirancang untuk membantu Anda memahami alur integrasi dan pengiriman berkelanjutan menggunakan Node.js, Docker, dan Jenkins.
 

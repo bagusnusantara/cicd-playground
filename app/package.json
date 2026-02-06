@@ -1,7 +1,7 @@
 {
-  "name": "cicd-lab-app",
+  "name": "cicd-playground",
   "version": "1.0.0",
-  "description": "Simple Express app for CI/CD lab",
+  "description": "Simple Express app for CI/CD Playground",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
